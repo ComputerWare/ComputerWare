@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ComputerWare
-- 👀 I’m interested in making Python and Java apps.
-- 🌱 I am currently learning jython, the crossbreed version of Python and Java.
+- 👀 I’m interested in making Python, Kotlin, and Java apps.
+- 🌱 I am currently learning Kotlin
 
 <!---
 ComputerWare/ComputerWare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
