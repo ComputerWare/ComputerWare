@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ComputerWare
-- 👀 I’m interested in making Python, Kotlin, and Java apps.
-- 🌱 I am currently learning Kotlin
+- 👀 I am fluent in JavaScript, Python, and Kotlin (including some Compose Multiplatform)
 - <a href="https://cash.app/$computerware">Donate here.</a>
 
 <!---
