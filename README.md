@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ComputerWare
 - 👀 I am fluent in JavaScript, Python, and Kotlin (including some Compose Multiplatform)
+- contact me at my discord: `evansergi`
 - <a href="https://cash.app/$computerware">Donate here.</a>
 
 <!---
